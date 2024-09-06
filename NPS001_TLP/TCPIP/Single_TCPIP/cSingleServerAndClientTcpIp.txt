@@ -1,0 +1,27 @@
+[2024-09-05]
+    [유닉스/리눅스]
+        culSTcpIp = C언어 Unix/Linux Single Server TCP/IP
+            파일 구조
+                tcp_server.h: 서버 코드의 헤더 파일
+                tcp_server.c: 서버 소스 파일
+                main.c: 메인 파일
+
+        culCTcpIp = C언어 Unix/Linux Single Client TCP/IP
+            파일 구조
+                tcp_client.h: 클라이언트 코드의 헤더 파일
+                tcp_client.c: 클라이언트 소스 파일
+                main.c: 메인 파일
+
+    [Windows]
+        cwSTcpIp = C언어 Windows Single Server TCP/IP
+            파일 구조
+                tcp_server.h: 서버 코드의 헤더 파일
+                tcp_server.c: 서버 소스 파일
+                main.c: 메인 파일
+
+
+        cwCTcpIp = C언어 Windows Single Client TCP/IP
+            파일 구조
+                tcp_client.h: 클라이언트 코드의 헤더 파일
+                tcp_client.c: 클라이언트 소스 파일
+                main.c: 메인 파일
